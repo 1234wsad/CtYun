@@ -12,7 +12,7 @@ namespace CtYun
     internal class CtYunApi
     {
 
-        private readonly string crcUrl = "https://baidu.com";
+        private readonly string crcUrl = "https://www.baidu.com";
 
         private readonly HttpClient client;
         private readonly LoginInfo loginInfo;
